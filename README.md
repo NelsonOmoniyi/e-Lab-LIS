@@ -1,2 +1,2 @@
 # e-Lab-LIS
-Interview Project...Recreating a Figma Design
+Recreating a Figma Design
